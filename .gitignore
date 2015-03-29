@@ -1,3 +1,10 @@
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
 /vendor
 /node_modules
-.env
+/deploy.php
+/deploy-config.example.php
+/webstat/*
+/cgi-bin/*
