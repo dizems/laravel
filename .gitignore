@@ -6,3 +6,6 @@
 /deploy-config.example.php
 /webstat/*
 /cgi-bin/*
+/vendor
+/node_modules
+.env
