@@ -8,3 +8,4 @@
 /deploy-config.example.php
 /webstat/*
 /cgi-bin/*
+/.idea
